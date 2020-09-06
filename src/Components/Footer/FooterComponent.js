@@ -20,7 +20,7 @@ export function Footer(props) {
                 </Link>
               </li>
               <li>
-                <Link to='/topratedmovies' className='link'>
+                <Link to='/popular' className='link'>
                   Popular Movies
                 </Link>
               </li>
